@@ -1,8 +1,4 @@
-
-
-# README for Fraud Detection Project
-
-## Fraudulent Synthetic Data Generator
+## 1. Fraudulent Synthetic Data Generator
 
 **`fraudulent_synthetic_data_generator.py`** is a Python script designed to generate synthetic transaction data with realistic features for fraud detection tasks. It allows you to control the volume of data and the fraud rate to simulate real-world scenarios. The generated dataset includes features such as transaction type, amounts, origins, destinations, timestamps, locations, and even noise for added complexity.
 
@@ -20,7 +16,7 @@
 
 ---
 
-## Fraud Detector and Models Evaluator
+## 2. Fraud Detector and Models Evaluator
 
 **`fraud_detector_and_models_evaluator.py`** is a machine learning pipeline for detecting fraud in transaction data. It evaluates several models and provides insights into their performance.
 
